@@ -1,0 +1,1 @@
+# Wildfires-detection-system

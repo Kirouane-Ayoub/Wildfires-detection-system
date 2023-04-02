@@ -12,3 +12,6 @@ This dataset is released by AI for Mankind in collaboration with HPWREN under a 
 The original dataset (and additional images without bounding boxes) can be found in their GitHub repo.
 
 https://github.com/aiformankind/wildfire-smoke-dataset
+
+UPDATE : 
+Using YOLO v8 : https://github.com/Kirouane-Ayoub/Wildfires-Detection-System-yolov8
